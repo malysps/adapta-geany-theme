@@ -1,4 +1,4 @@
-# adapta-geany-theme
+# Adapta Geany Theme
 A simple dark theme for Geany, with colors from Adapta GTK theme, based on Himbeere color scheme.
 
 Place the **adapta.conf** file in the `~/.config/geany/colorschemes/` folder, then in Geany go to *View -> Change Color Scheme* and choose Adapta.
